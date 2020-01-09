@@ -1,0 +1,5 @@
+connection:
+  driver: jdbc.oracle.driver.OracleDriver
+  url: oracle:jdbc:thin:@localhost:1521:xe
+  username: real
+  password: real
